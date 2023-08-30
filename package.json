@@ -1,5 +1,5 @@
 {
-	"name": "@reis/eslint-config",
+	"name": "eslint-config-reis",
 	"version": "1.0.0",
 	"private": false,
 	"description": "ESLint configuration used by Reis",
