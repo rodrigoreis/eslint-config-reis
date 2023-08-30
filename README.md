@@ -9,13 +9,17 @@
 
 ### Node.js
 
-Install dependencies:
+Install dependencies (`npm`):
 ```
-npm i -D eslint @reis/eslint-config
+npm i -D eslint-config-reis
+```
+Install dependencies (`yarn`):
+```
+yarn add -D eslint-config-reis
 ```
 Inside `.eslintrc.json`
 ```
 {
-  "extends": "@reis/eslint-config/node"
+  "extends": "eslint-config-reis/node"
 }
 ```
