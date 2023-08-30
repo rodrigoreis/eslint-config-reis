@@ -6,7 +6,8 @@
 	"license": "MIT",
 	"main": "index.js",
 	"repository": {
-		"url": "rodrigoreis/eslint-config-reis"
+		"type": "git",
+		"url": "https://github.com/rodrigoreis/eslint-config-reis"
 	},
 	"peerDependencies": {
 		"eslint": "^8.48.0",
