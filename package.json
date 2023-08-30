@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-reis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "ESLint configuration used by Reis",
   "license": "MIT",
