@@ -3,6 +3,7 @@
 ## Whats included?
 
 - Standard config base;
+- Airbnb base;
 - Prettier;
 
 ## Setup
